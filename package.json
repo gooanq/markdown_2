@@ -1,0 +1,16 @@
+{
+  "name": "2_markdown_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main-scss": "node-sass ./pages/main/style.scss -o ./pages/main/",
+    "pets-scss": "node-sass ./pages/pets/style.scss -o ./pages/pets/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
